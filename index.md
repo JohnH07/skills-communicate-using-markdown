@@ -12,3 +12,8 @@ x = 1;
 y = 2;
 x += y;
 ```
+- [ ] Finish this course
+- [x] Finish step 1
+- [x] Finish step 2
+- [x] Finish step 3
+- [ ] Finish step 4
